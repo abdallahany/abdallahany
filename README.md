@@ -66,7 +66,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
   </a>
   &emsp;
    <a href="https://www.rust-lang.org/" target="_blank">
-    <img alt="Rust" src="https://img.shields.io/badge/Rust%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+    <img alt="Rust" src="https://img.shields.io/badge/Rust%20-%2314384C.svg?style=plastic&logo=python&logoColor=white">
   </a>	
 </p>
 
