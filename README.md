@@ -43,7 +43,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 	<a href="https://github.com/abdalla-hany"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"width="100"/></a>
 	<a href="https://wa.me/0201095316011"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"width="100"/></a>
 	<a href="https://www.linkedin.com/in/abdalla-hany-00b759205/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"width="100"/></a>
-	<a href="https://www.facebook.com/abdallajc8/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"width="100"/></a>
+	<a href="https://www.facebook.com/abdallajc8/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"width="150"/></a>
 </p>
 
 
