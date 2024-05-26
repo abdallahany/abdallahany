@@ -64,6 +64,10 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
   </a>
+  &emsp;
+   <a href="https://www.rust-lang.org/" target="_blank">
+    <img alt="Rust" src="https://img.shields.io/badge/Rust%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+  </a>	
 </p>
 
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
