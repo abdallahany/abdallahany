@@ -37,6 +37,8 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1VBydo3sATCNfcVttpv6WO6KqB7h51ps8/view?usp=sharing).
 <br>
 
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## <img src="https://media1.tenor.com/m/IoTET0dShKwAAAAC/refund.gif" width="10%"> Connect with me
 <p align="center">
 	  &emsp;
