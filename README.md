@@ -79,9 +79,9 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
     &emsp;
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white" width="180"></a>
     &emsp;
-    <a href="#"><img alt="CMake" src="https://img.shields.io/badge/Cmake-000000?style=plastic&logo=Cmake&logoColor=white" width="110"></a>
+    <a href="#"><img alt="CMake" src="https://img.shields.io/badge/Cmake-000000?style=plastic&logo=Cmake&logoColor=white" width="120"></a>
     &emsp;
-    <a href="#"><img alt="makefile" src="https://img.shields.io/badge/makefile-025635?style=plastic&logo=GNU%20Make&logoColor=white" width="150"></a>
+    <a href="#"><img alt="makefile" src="https://img.shields.io/badge/makefile-025635?style=plastic&logo=GNU%20Make&logoColor=white" width="130"></a>
     &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white" width="180"></a>
     &emsp;
