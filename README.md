@@ -6,14 +6,11 @@
 
   <!-- Centering the header -->
   <div id="user-content-toc">
-  <p align="center">
-  <ul align="center">
-    <summary>
-      <h1 style="display: inline-block; font-size: 20px;">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" style="vertical-align: middle;">, I'm Abdalla Hany</h1>
-    </summary>
-  </ul>
-    </p>
-    
+    <ul align="center">
+      <summary>
+        <h1 style="display: inline-block; font-size: 20px;">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" style="vertical-align: middle;">, I'm Abdalla Hany</h1>
+      </summary>
+    </ul>   
   </div>
 
 
