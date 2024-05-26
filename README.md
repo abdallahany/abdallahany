@@ -39,7 +39,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 ## <img src="https://media1.tenor.com/m/IoTET0dShKwAAAAC/refund.gif" width="10%"> Connect with me
 <p align="center">
-	<a href="mailto:abdallahanyalsaid77@gmail.com"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=Gmail&logoColor=white" alt="Gmail"width="100"/></a>
+	<a href="mailto:abdallahanyalsaid77@gmail.com"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=Gmail&logoColor=white" alt="Gmail"width="150"/></a>
 	<a href="https://github.com/abdalla-hany"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"width="100"/></a>
 	<a href="https://wa.me/0201095316011"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"width="100"/></a>
 	<a href="https://www.linkedin.com/in/abdalla-hany-00b759205/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"width="100"/></a>
