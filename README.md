@@ -5,10 +5,11 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <!-- Centering the header -->
-  <p align="center">
-  <div style="text-align: center; border-bottom: 2px solid;">
-    <h1>Hi 👋, I'm Abdalla Hany</h1>
-  </div>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Abdalla Hany</h1></summary>
+  </ul>
+</div>
 
   <!-- Typing SVG centered -->
   <p align="center">
