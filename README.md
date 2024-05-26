@@ -5,7 +5,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <!-- Centering the header -->
-     <div id="user-content-toc">
+  <div id="user-content-toc">
   <p align="center">
   <ul align="center">
     <summary>
@@ -14,7 +14,7 @@
   </ul>
     </p>
     
-       </div>
+  </div>
 
 
   <!-- Typing SVG centered -->
