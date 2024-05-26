@@ -89,9 +89,9 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
     &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white" width="90"></a>
     &emsp;
-    <a href="#"><img alt="bash script" src="https://img.shields.io/badge/bash%20script-%235586A4.svg?style=plastic&logo=GNU%20Bash&logoColor=white" width="160"></a>
+    <a href="#"><img alt="bash script" src="https://img.shields.io/badge/bash%20script-%235586A4.svg?style=plastic&logo=GNU%20Bash&logoColor=white" width="150"></a>
     &emsp;
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%232370ED.svg?&style=plastic&logo=docker&logoColor=white" width="120"></a>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%232370ED.svg?&style=plastic&logo=docker&logoColor=white" width="110"></a>
     &emsp;
 </p>
 
