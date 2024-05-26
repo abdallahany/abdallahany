@@ -143,3 +143,31 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <p align = "center">
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
+
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+
+----
+	
+<div>
+  <p align="center">
+	<a href="https://github.com/abdalla-hany">
+      		<img src="https://github.com/abdalla-hany/AVR-Atmega32-Drivers&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/7oSkaaa/Ahmed-Hossam">
+      		<img src="https://github.com/abdalla-hany/AVR-Atmega32-Security-System&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/abdalla-hany">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Strees_Testing&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/abdalla-hany">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=CP-Templates&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+    	<a href="https://github.com/abdalla-hany">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Codeforces-Polygon-Template&theme=tokyonight" alt="GitHub Stats" />
+    	</a>
+	<a href="https://github.com/abdalla-hany">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=Some-Linux-Commands&theme=tokyonight"/>
+    	</a>
+  </p>
+</div>
+</details>
