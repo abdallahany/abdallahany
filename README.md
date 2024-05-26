@@ -90,9 +90,9 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="bash%20script" src="https://img.shields.io/badge/bash%20script-%235586A4.svg?style=plastic&logo=GNU Bash%20script&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
+<a href="#"><img alt="bash script" src="https://img.shields.io/badge/bash%20script-%235586A4.svg?style=plastic&logo=GNU%20Bash&logoColor=white"></a>
+&emsp;
+<a href="#"><img alt="Selenium" src="https://img.shields.io/badge/selenium-%2343B02A.svg?&style=plastic&logo=selenium&logoColor=white"></a>
     &emsp;
     <a href="#"><img src="https://img.shields.io/badge/latex-%23008080.svg?&style=plastic&logo=latex&logoColor=white" /></a>
     &emsp;
