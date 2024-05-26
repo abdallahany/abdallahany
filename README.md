@@ -29,13 +29,10 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- 👨‍💻 I'm Software Development Engineer @[noon](https://www.noon.com/egypt-en/)
-- :school: I am a `Fresh Graduate` from the [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
-- :trophy: 3x `ACPC` Finalist.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
-- ✍🏻 I love using Software as a solution for every Problem
-- 🤓 Always learning new things
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- 👨‍💻 I'm Embedded Software Engineer.
+- :school: I am a `Fresh Graduate` from the [Faculty of Mechatronics Engineering](https://o6u.edu.eg/dpages.aspx?FactId=1&id=422) at [October 6 University](https://o6u.edu.eg/default.aspx?id=70).
+- ✍🏻 I love using Software as a solution for every Problem.
+- 🤓 Always learning new things.
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1VBydo3sATCNfcVttpv6WO6KqB7h51ps8/view?usp=sharing).
 <br>
 
