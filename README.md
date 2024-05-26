@@ -36,7 +36,7 @@
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1VBydo3sATCNfcVttpv6WO6KqB7h51ps8/view?usp=sharing).
 <br>
 
-## <img src="https://media1.tenor.com/m/XIqrmQWSWMAAAAAC/agreed-handshake.gif" width="10%"> Connect with me
+## <img src="https://media1.tenor.com/m/IoTET0dShKwAAAAC/refund.gif" width="10%"> Connect with me
 <p align="center">
 	<a href="mailto:ahmed.7oskaa@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/7oSkaaa"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
