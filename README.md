@@ -73,28 +73,28 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=5%>  Software & Tools
  
 <p align="center">
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"width="90"></a>
-  &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"width="90"></a>
-  &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"width="90"></a>
-  &emsp;
-    <a href="#"><img alt="CMake" src="https://img.shields.io/badge/Cmake-000000?style=plastic&logo=Cmake&logoColor=white"width="90"></a>
-  &emsp;
-<a href="#"><img alt="makefile" src="https://img.shields.io/badge/makefile-025635?style=plastic&logo=GNU%20Make&logoColor=white"width="90"></a>
-&emsp;
-<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"width="90"></a>
-  &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"width="90"></a>
-  &emsp;
-    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"width="90"></a>
-  &emsp;
-<a href="#"><img alt="bash script" src="https://img.shields.io/badge/bash%20script-%235586A4.svg?style=plastic&logo=GNU%20Bash&logoColor=white"width="90"></a>
-&emsp;
-<a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%232370ED.svg?&style=plastic&logo=docker&logoColor=white"width="90"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white" width="120"></a>
+    &emsp;
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" width="120"></a>
+    &emsp;
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white" width="120"></a>
+    &emsp;
+    <a href="#"><img alt="CMake" src="https://img.shields.io/badge/Cmake-000000?style=plastic&logo=Cmake&logoColor=white" width="120"></a>
+    &emsp;
+    <a href="#"><img alt="makefile" src="https://img.shields.io/badge/makefile-025635?style=plastic&logo=GNU%20Make&logoColor=white" width="120"></a>
+    &emsp;
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white" width="120"></a>
+    &emsp;
+    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white" width="120"></a>
+    &emsp;
+    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white" width="120"></a>
+    &emsp;
+    <a href="#"><img alt="bash script" src="https://img.shields.io/badge/bash%20script-%235586A4.svg?style=plastic&logo=GNU%20Bash&logoColor=white" width="120"></a>
+    &emsp;
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%232370ED.svg?&style=plastic&logo=docker&logoColor=white" width="120"></a>
     &emsp;
 </p>
+
 
  ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width=5%> IDEs
  
