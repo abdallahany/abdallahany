@@ -7,7 +7,7 @@
   <!-- Centering the header -->
   <div id="user-content-toc">
     <ul align="center">
-        <summary><h1 style="display: inline-block">Hi 👋, I'm Abdalla Hany</h1></summary>
+        <summary><h1 style="display: inline-block">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>, I'm Abdalla Hany</h1></summary>
       </ul>
     </div>
 
