@@ -77,7 +77,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
     &emsp;
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" width="120"></a>
     &emsp;
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white" width="180"></a>
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white" width="190"></a>
     &emsp;
     <a href="#"><img alt="CMake" src="https://img.shields.io/badge/Cmake-000000?style=plastic&logo=Cmake&logoColor=white" width="120"></a>
     &emsp;
